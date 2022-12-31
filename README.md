@@ -1,2 +1,2 @@
-# jenkins_shared_libs
+# Jenkins Shared Library
 Jenkins Shared Library - Readme
